@@ -1,4 +1,4 @@
-# Words Sentiment as weights for
+# Words Sentiment as weights
 
 import numpy as np
 from processing import *
